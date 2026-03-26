@@ -21,7 +21,7 @@ Currently building a real-time messaging platform with WebSockets, JWT + cookie 
 
 ---
 
-### Projects
+### Projects 
 
 | Project               | Description                                                        | Stack                                       | Link                                            |
 | --------------------- | ------------------------------------------------------------------ | ------------------------------------------- | ----------------------------------------------- |
@@ -32,9 +32,16 @@ Currently building a real-time messaging platform with WebSockets, JWT + cookie 
 
 ### Currently
 
-- 🔨 Building a real-time messaging app
-- 📝 Writing about bugs and what I learn on [my blog](https://hemant-codes-blog.netlify.app)
-- 🌱 Learning TypeScript
+- 🔭 I’m currently working on [Messaging web app]**(https://github.com/HemantDahiyaCodes/messaging-app)**
+
+- 🌱 I’m currently learning **Typescript, devOps**
+
+- 📝 I regularly write articles on **[Hemant Codes Blog](https://hemant-codes-blog.netlify.app/)**
+
+- 💬 Ask me about **Javascript, React, backend, Authentication**
+
+- 📫 How to reach me **hemantdahiyacodes@gmail.com**
+- 📝 Writing about bugs and what I learn on **[my blog](https://hemant-codes-blog.netlify.app)**
 - 💼 Open to freelance projects and remote roles
 
 ---
